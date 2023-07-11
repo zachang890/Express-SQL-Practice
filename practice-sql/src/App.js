@@ -38,9 +38,6 @@ function App() {
     getList();
   }, []);
 
-
-
-
   return (
     <div className="App">
       <div>
